@@ -32,7 +32,7 @@ committed and pushed to GitHub.
 ## Completion Summary
 
 - [x] Mission 0 — GitHub Workspace Setup
-- [ ] Mission 1 — Computer Basics
+- [x] Mission 1 — Computer Basics
 - [ ] Mission 2 — Terminal
 - [ ] Mission 3 — Operating System
 - [ ] Mission 4 — Programs
