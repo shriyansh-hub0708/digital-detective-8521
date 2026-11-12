@@ -85,5 +85,9 @@ mission-02-terminal/
     ├── diary.txt
     └── final-backup.txt
 
-## Commit Deatils
-To be updated after committing and pushing Mission 2 to GitHub.
+## Commit Details
+
+- Commit ID: `2715d8b`
+- Commit Message: `Complete Terminal and file management mission`
+- Files Changed: 5
+- Branch: `main`
