@@ -35,7 +35,7 @@ committed and pushed to GitHub.
 - [x] Mission 1 — Computer Basics
 - [x] Mission 2 — Terminal
 - [x] Mission 3 — Operating System
-- [ ] Mission 4 — Programs
+- [x] Mission 4 — Programs
 - [ ] Mission 5 — Numbers and Data
 - [ ] Mission 6 — Git and GitHub
 - [ ] Mission 7 — Networking
