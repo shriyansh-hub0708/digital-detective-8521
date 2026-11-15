@@ -34,7 +34,7 @@ committed and pushed to GitHub.
 - [x] Mission 0 — GitHub Workspace Setup
 - [x] Mission 1 — Computer Basics
 - [x] Mission 2 — Terminal
-- [ ] Mission 3 — Operating System
+- [x] Mission 3 — Operating System
 - [ ] Mission 4 — Programs
 - [ ] Mission 5 — Numbers and Data
 - [ ] Mission 6 — Git and GitHub
