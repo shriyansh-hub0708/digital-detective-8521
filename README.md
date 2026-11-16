@@ -40,3 +40,11 @@ committed and pushed to GitHub.
 - [ ] Mission 6 — Git and GitHub
 - [ ] Mission 7 — Networking
 - [ ] Mission 8 — Final Report
+
+## My Learning
+
+1. I learned about Git and GitHub and their importance in software development and collaboration.
+
+2. I learned how to use Git commands such as `git add`, `git commit`, and `git push` to manage and publish changes.
+
+3. I learned how branches allow developers to work independently without directly affecting the main branch.
