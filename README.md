@@ -109,7 +109,7 @@ python3 number_converter.py
 - [x] Mission 5 — Numbers and Data
 - [x] Mission 6 — Git and GitHub
 - [x] Mission 7 — Networking
-- [ ] Mission 8 — Final Report
+- [x] Mission 8 — Final Report
 
 ## My Learning
 1. I learned how computers work through input, processing and output.
